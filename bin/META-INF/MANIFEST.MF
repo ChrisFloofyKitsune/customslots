@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+FMLCorePlugin: chrisclark13.minecraft.customslots.asm.AccessTransformerLoader

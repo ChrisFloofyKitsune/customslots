@@ -1,0 +1,21 @@
+{
+  "modinfoversion": 2,
+  "modlist": [{
+    "modid": "CustomSlots",
+    "name": "Custom Slots API",
+    "description": "Adds in new custom inventory slots that are more flexible than vanilla slots.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authors": [ "ChrisClark13" ],
+    "credits": "By ChrisClark13",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "requiredMods": [ "Forge" ],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": "true"
+  }]
+}
